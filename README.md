@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋
-<h3 align="center">A passionate software developer from Türkiye/İstanbul</h3>
+<h3 align="center">A passionate software developer from İstanbul/Türkiye</h3>
 
 
 <h3 align="left">Connect with me:</h3>
