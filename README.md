@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋
-<h3 align="center">A passionate software developer from Türkiye</h3>
+<h1 >Hi 👋
+<h3>A passionate software developer from Türkiye</h3>
 
 
 <h3 align="left">Connect with me:</h3>
